@@ -1,0 +1,11 @@
+[project]
+name = "quadratic"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.quadfunding]
+path = "contracts/quadfunding.clar"
+depends_on = []
